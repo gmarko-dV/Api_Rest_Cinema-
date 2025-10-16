@@ -42,5 +42,7 @@ Archivos importantes
 - Rutas: cinemadb_api/cinemadb_api/urls.py
 
 Evidencias (colocar las imágenes en images/ dentro del repositorio)
-- Listado de películas: images/1.jpg
-- Listado de directores: images/2.jpg
+- Listado de películas:
+![Texto alternativo](images/1.png)
+- Listado de directores:
+![Texto alternativo](images/2.png)
